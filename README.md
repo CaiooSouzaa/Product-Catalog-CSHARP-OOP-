@@ -2,7 +2,7 @@
 
 > A console application that demonstrates object-oriented programming fundamentals in C#: inheritance, polymorphism, and method overriding through a practical product registration system.
 
-<img width="300" height="142" alt="Image" src="https://github.com/user-attachments/assets/dbc2d510-d6b5-4400-8fdf-b93fb35dd201" />
+<img width="762" height="326" alt="Image" src="https://github.com/user-attachments/assets/3959adbc-6d82-4d2d-bdd7-d96eba8d98d0" />
 </br>
 <img width="1360" height="611" alt="Image" src="https://github.com/user-attachments/assets/a837f6d0-c44a-4203-90de-aec0d200d65e" />
 ---
